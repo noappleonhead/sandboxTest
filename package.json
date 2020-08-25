@@ -1,0 +1,28 @@
+{
+  "name": "step-4-rxjs-with-react-pt-2",
+  "version": "1.0.0",
+  "description": "Example for the blog post series\nhttps://www.bitovi.com/blog/rxjs-with-react-pt-1\n",
+  "keywords": [],
+  "main": "src/index.js",
+  "dependencies": {
+    "react": "16.8.6",
+    "react-dom": "16.8.6",
+    "react-scripts": "3.0.1",
+    "rxjs": "6.5.3"
+  },
+  "devDependencies": {
+    "typescript": "3.3.3"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
